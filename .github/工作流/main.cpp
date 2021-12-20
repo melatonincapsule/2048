@@ -3,6 +3,7 @@
 #include <ctime>
 
 using namespace std;
+//copy from a guys who called AceTan
 
 int const ROW = 4;
 int const COL = 4;
